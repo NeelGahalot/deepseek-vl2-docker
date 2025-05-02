@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow essential files
+!.gitignore
+!README.md
+!Dockerfile
+!initial_requirements.txt
+!inference.py
+
+
+# Ignore IDE/OS files (optional)
+.DS_Store
+.idea/
+.vscode/
